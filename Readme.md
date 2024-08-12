@@ -1,4 +1,4 @@
-Here's an English version of your README content for GitHub:
+
 
 # AutoDiff Package
 
